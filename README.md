@@ -1,6 +1,6 @@
-# Anti-Flag for Overwatch
+# Anti-Flag for D2R
 
-**Anti-Flag** is a simply Console Application written in modern C++. It prevents Chainban's by clearing common Directories and Registry Keys, which Blizzard and Cheat Developers use to *Flag* your Device if you either were a Bad Boy >:( *grrr* or downloaded malware disguised as Overwatch Cheats.
+**Anti-Flag** is a simply Console Application written in modern C++. It prevents Chainban's by clearing common Directories and Registry Keys, which Blizzard and Cheat Developers use to *Flag* your Device if you either were a Bad Boy >:( *grrr* or downloaded malware disguised as Cheats.
 
 ## How to Use ?
 
